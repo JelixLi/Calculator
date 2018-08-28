@@ -1,0 +1,4 @@
+/home/jielix/code/CPP/build/CMakeFiles/rebuild_cache.dir
+/home/jielix/code/CPP/build/CMakeFiles/edit_cache.dir
+/home/jielix/code/CPP/build/CMakeFiles/calTest.dir
+/home/jielix/code/CPP/build/CMakeFiles/cal-static.dir

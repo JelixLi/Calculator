@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/calTest.dir/test/main.cpp.o  -o build/calTest -rdynamic libcal-static.a 

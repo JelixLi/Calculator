@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcal-static.a  CMakeFiles/cal-static.dir/src/scanner.cpp.o CMakeFiles/cal-static.dir/src/parser.cpp.o CMakeFiles/cal-static.dir/src/symboltable.cpp.o CMakeFiles/cal-static.dir/src/store.cpp.o CMakeFiles/cal-static.dir/src/Node.cpp.o
+/usr/bin/ranlib libcal-static.a
